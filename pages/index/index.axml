@@ -1,0 +1,9 @@
+
+<view>
+  Bienvenue sur URL Lookup pour vérifier la validité des liens de site web
+</view>
+
+<view>
+  <ant-input placeholder="Saisir le lien de site web" allowClear />
+  <ant-button type="primary" onTap="handleURLLookup">Vérifier</ant-button>
+</view>
