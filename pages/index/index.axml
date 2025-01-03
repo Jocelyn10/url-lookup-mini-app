@@ -4,6 +4,6 @@
 </view>
 
 <view>
-  <ant-input placeholder="Saisir le lien de site web" allowClear />
+  <ant-input placeholder="Saisir le lien de site web. Example: https://google.com ou google.com" allowClear />
   <ant-button type="primary" onTap="handleURLLookup">Vérifier</ant-button>
 </view>
